@@ -1,4 +1,3 @@
-from django.db import models
 
 # Create your models here.
 import uuid
@@ -6,6 +5,7 @@ from django.db import models
 from django.conf import settings
 from goods.models import Product, SKU
 from users.models import Address
+from django.utils import timezone
 
 
 class Order(models.Model):
