@@ -5,92 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3488b58f-1c54-458d-94bf-04abf29a33a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/250270aa-d680-4eb6-8e60-1f9da7d47a1e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/250270aa-d680-4eb6-8e60-1f9da7d47a1e/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/250270aa-d680-4eb6-8e60-1f9da7d47a1e/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/250270aa-d680-4eb6-8e60-1f9da7d47a1e/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/250270aa-d680-4eb6-8e60-1f9da7d47a1e/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2e2bf561-7a23-42fa-acde-9156a42269a3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mall_backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/migrations/0002_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/migrations/0002_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorites/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/celery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall_backend/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/migrations/0002_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall_backend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mall_backend/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +108,7 @@
       <workItem from="1777647271008" duration="3884000" />
       <workItem from="1777894235410" duration="593000" />
       <workItem from="1777907724808" duration="2174000" />
-      <workItem from="1777953963569" duration="3765000" />
+      <workItem from="1777953963569" duration="5865000" />
     </task>
     <servers />
   </component>
